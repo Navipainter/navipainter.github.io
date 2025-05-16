@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Hiroine",
+    "slug": "hiroine",
+    "images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5c44f9c74eddeceaf51a11c8/1721358605021-INM4H3YYI8MRRLEEQELP/SW+LINE.jpg?format=1500w",
+          "alt": "Star Wars Line"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5c44f9c74eddeceaf51a11c8/1548191069647-U7C9F52NPH2QXCT37JSM/78k+BigHero6.jpg?format=2500w",
+          "alt": "Big Hero 6"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5c44f9c74eddeceaf51a11c8/1721359679203-3MDSBF5SZN32XN3WM81U/sisudragon%2B02a.jpg?format=2500w",
+          "alt": "Sisu Dragon"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5c44f9c74eddeceaf51a11c8/1649029482627-CJIXZRUCYG6Q1922AP8U/SW+International+Beats+03.jpg?format=1500w",
+          "alt": "SW International Beats"
+        }
+    ]
+  },
+  {
+    "name": "Dulce Cucarachín",
+    "slug": "dulce-cucarachin",
+    "images": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5c44f9c74eddeceaf51a11c8/1721359679203-3MDSBF5SZN32XN3WM81U/sisudragon%2B02a.jpg?format=2500w",
+        "alt": "Sisu Dragon"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5c44f9c74eddeceaf51a11c8/1649029482627-CJIXZRUCYG6Q1922AP8U/SW+International+Beats+03.jpg?format=1500w",
+        "alt": "SW International Beats"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5c44f9c74eddeceaf51a11c8/1721358605021-INM4H3YYI8MRRLEEQELP/SW+LINE.jpg?format=1500w",
+        "alt": "Star Wars Line"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5c44f9c74eddeceaf51a11c8/1548191069647-U7C9F52NPH2QXCT37JSM/78k+BigHero6.jpg?format=2500w",
+        "alt": "Big Hero 6"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5c44f9c74eddeceaf51a11c8/1548197768759-8IWSNG3D2D63OHQPNER4/79+Zoo4.jpg?format=1500w",
+        "alt": "Palmera Gigante"
+      }
+    ]
+  },
+  {
+    "name": "Janiti",
+    "slug": "majaniti",
+    "images": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/556ce0d3e4b0982744a8d376/1648835294376-KPALT6U3BUYXWKX8JR9N/image-asset.png?format=1000w",
+        "alt": "Ninyo pendejo"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/580fbaac440243d8731ffc57/c8ce3e56-8568-4006-89af-b755e16b15ee/20K_ZeldaMusic_Part1_Website.jpg",
+        "alt": "elfo pendejo"
+      },
+      {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtXtAptZwYWTBprPiVSN7GAwEXCXNQDkhKQ&s",
+        "alt": "zelda pendeja"
+      },
+      {
+        "url": "https://sm.ign.com/ign_latam/cover/t/the-legend/the-legend-of-zelda-tears-of-the-kingdom_p893.jpg",
+        "alt": "janiti"
+      }
+    ]
+  }
+]

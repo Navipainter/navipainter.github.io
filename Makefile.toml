@@ -1,0 +1,22 @@
+[config]
+skip_core_tasks = true
+
+[tasks.build]
+command = "trunk"
+args = ["build", "--release"]
+
+[tasks.serve]
+command = "trunk"
+args = ["serve"]
+
+[tasks.check-trunk]
+script = [
+    "if ! command -v trunk &> /dev/null; then",
+    "  echo 'Trunk no está instalado. Instalando...'",
+    "  cargo install trunk",
+    "fi"
+]
+
+[tasks.full-build]
+dependencies = ["check-trunk", "build"]
+
