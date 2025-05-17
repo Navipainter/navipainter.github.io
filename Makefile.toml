@@ -22,6 +22,11 @@ script = [
     "cp 404.html docs/"
 ]
 
+[tasks.copy-favicon]
+script = [
+    "cp static/favicon.png docs/"
+]
+
 [tasks.full-build]
-dependencies = ["check-trunk", "build", "copy-404"]
+dependencies = ["check-trunk", "build", "copy-404", "copy-favicon"]
 
