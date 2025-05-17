@@ -61,13 +61,6 @@ fn sidebar(props: &SidebarProps) -> Html {
             >
                 <Link<Route> to={Route::About}>{ "Sobre mí" }</Link<Route>>
             </div>
-            // Proyectos
-            <div
-                class={classes!("my-nav-item", if current_path == "/proyectos" { "active" } else { "" })}
-                onclick={props.toggle_mobile.clone()}
-            >
-                <Link<Route> to={Route::Proyectos}>{ "Proyectos" }</Link<Route>>
-            </div>
         </nav>
     }
 }

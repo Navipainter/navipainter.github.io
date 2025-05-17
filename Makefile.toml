@@ -17,6 +17,11 @@ script = [
     "fi"
 ]
 
+[tasks.copy-404]
+script = [
+    "cp 404.html docs/"
+]
+
 [tasks.full-build]
-dependencies = ["check-trunk", "build"]
+dependencies = ["check-trunk", "build", "copy-404"]
 

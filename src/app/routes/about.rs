@@ -7,10 +7,9 @@ pub fn about() -> Html {
             <div class="my-wrapper">
                 <div class="my-content">
                     <h1>{"Sobre mí"}</h1>
-                    <p>{"Soy Leaf, un programador creando cosas en Rust con Yew."}</p>
+                    <p>{"Soy Navi Painter."}</p>
                 </div>
             </div>
         </section>
     }
 }
-
