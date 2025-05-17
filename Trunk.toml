@@ -1,7 +1,6 @@
 [build]
 target = "index.html"
 dist = "docs"
-public_url = "/navipainter.github.io/"
 
 [[copy]]
 source = "static"
